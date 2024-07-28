@@ -4,19 +4,19 @@
     "url": "https://dev-app.reviewtable.ru/api/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev-app.reviewtable.ru.ico",
     "slug": "development-app",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.61%",
-    "uptimeWeek": "99.80%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 744,
-    "timeDay": 840,
-    "timeWeek": 782,
-    "timeMonth": 744,
-    "timeYear": 744,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.29%",
+    "uptimeWeek": "99.61%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 736,
+    "timeDay": 790,
+    "timeWeek": 768,
+    "timeMonth": 736,
+    "timeYear": 736,
     "dailyMinutesDown": {
-      "2024-07-28": 20
+      "2024-07-28": 39
     }
   },
   {
@@ -24,19 +24,19 @@
     "url": "https://dev-backend.reviewtable.ru/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev-backend.reviewtable.ru.ico",
     "slug": "development-backend",
-    "status": "down",
-    "uptime": "99.86%",
-    "uptimeDay": "98.64%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.86%",
-    "uptimeYear": "99.86%",
-    "time": 735,
-    "timeDay": 778,
-    "timeWeek": 770,
-    "timeMonth": 735,
-    "timeYear": 735,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.33%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 730,
+    "timeDay": 748,
+    "timeWeek": 758,
+    "timeMonth": 730,
+    "timeYear": 730,
     "dailyMinutesDown": {
-      "2024-07-28": 20
+      "2024-07-28": 39
     }
   },
   {
@@ -44,19 +44,19 @@
     "url": "https://dev-ya-business-client.reviewtable.ru/health",
     "icon": "https://icons.duckduckgo.com/ip3/dev-ya-business-client.reviewtable.ru.ico",
     "slug": "development-ya-business-client",
-    "status": "down",
-    "uptime": "99.87%",
-    "uptimeDay": "98.68%",
-    "uptimeWeek": "99.81%",
-    "uptimeMonth": "99.87%",
-    "uptimeYear": "99.87%",
-    "time": 739,
-    "timeDay": 773,
-    "timeWeek": 757,
-    "timeMonth": 739,
-    "timeYear": 739,
+    "status": "up",
+    "uptime": "99.73%",
+    "uptimeDay": "97.36%",
+    "uptimeWeek": "99.62%",
+    "uptimeMonth": "99.73%",
+    "uptimeYear": "99.73%",
+    "time": 727,
+    "timeDay": 722,
+    "timeWeek": 738,
+    "timeMonth": 727,
+    "timeYear": 727,
     "dailyMinutesDown": {
-      "2024-07-28": 19
+      "2024-07-28": 38
     }
   }
 ]
