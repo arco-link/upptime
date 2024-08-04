@@ -1,7 +1,7 @@
 url: https://dev-ya-business-client.reviewtable.ru/health
-status: down
-code: 502
-responseTime: 971
-lastUpdated: 2024-08-04T01:14:28.173Z
+status: up
+code: 200
+responseTime: 588
+lastUpdated: 2024-08-04T02:16:34.569Z
 startTime: 2024-07-18T21:25:39.393Z
 generator: Upptime <https://github.com/upptime/upptime>
