@@ -1,7 +1,7 @@
 url: https://dev-backend.reviewtable.ru/health
-status: up
-code: 200
-responseTime: 981
-lastUpdated: 2024-08-03T23:18:56.656Z
+status: down
+code: 502
+responseTime: 1036
+lastUpdated: 2024-08-04T01:14:24.995Z
 startTime: 2024-07-18T21:25:38.493Z
 generator: Upptime <https://github.com/upptime/upptime>
