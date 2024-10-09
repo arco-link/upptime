@@ -1,7 +1,7 @@
 url: https://dev-app.reviewtable.ru/api/health
-status: up
-code: 200
-responseTime: 587
-lastUpdated: 2024-10-08T23:19:43.988Z
+status: down
+code: 404
+responseTime: 830
+lastUpdated: 2024-10-09T17:47:26.771Z
 startTime: 2024-07-18T21:25:37.574Z
 generator: Upptime <https://github.com/upptime/upptime>
