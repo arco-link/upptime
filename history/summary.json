@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-app.reviewtable.ru.ico",
     "slug": "development-app",
     "status": "down",
-    "uptime": "18.19%",
+    "uptime": "18.14%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "16.36%",
+    "uptimeYear": "16.09%",
     "time": 957,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 973,
     "dailyMinutesDown": {
-      "2025-07-27": 55,
+      "2025-07-28": 54,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -326,8 +327,7 @@
       "2024-09-11": 1440,
       "2024-09-10": 687,
       "2024-08-06": 660,
-      "2024-08-05": 31,
-      "2024-07-28": 39
+      "2024-08-05": 31
     }
   },
   {
@@ -336,18 +336,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-backend.reviewtable.ru.ico",
     "slug": "development-backend",
     "status": "down",
-    "uptime": "37.08%",
+    "uptime": "36.98%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.68%",
+    "uptimeYear": "35.40%",
     "time": 809,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 815,
+    "timeYear": 813,
     "dailyMinutesDown": {
-      "2025-07-27": 55,
+      "2025-07-28": 54,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -594,8 +595,7 @@
       "2024-09-10": 687,
       "2024-08-06": 660,
       "2024-08-05": 30,
-      "2024-08-04": 62,
-      "2024-07-28": 39
+      "2024-08-04": 62
     }
   },
   {
@@ -604,18 +604,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ya-business-client.reviewtable.ru.ico",
     "slug": "development-ya-business-client",
     "status": "down",
-    "uptime": "37.14%",
+    "uptime": "37.04%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "1.38%",
-    "uptimeYear": "35.74%",
+    "uptimeYear": "35.47%",
     "time": 808,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
-    "timeYear": 813,
+    "timeYear": 812,
     "dailyMinutesDown": {
-      "2025-07-27": 55,
+      "2025-07-28": 54,
+      "2025-07-27": 1440,
       "2025-07-26": 1440,
       "2025-07-25": 1440,
       "2025-07-24": 1440,
@@ -859,8 +860,7 @@
       "2024-09-10": 687,
       "2024-08-06": 660,
       "2024-08-05": 30,
-      "2024-08-04": 62,
-      "2024-07-28": 38
+      "2024-08-04": 62
     }
   }
 ]
