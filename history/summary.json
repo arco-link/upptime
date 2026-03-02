@@ -5,18 +5,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-app.reviewtable.ru.ico",
     "slug": "development-app",
     "status": "down",
-    "uptime": "11.50%",
+    "uptime": "11.48%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 1069,
+    "time": 1074,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 68,
+      "2026-03-02": 61,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -379,8 +380,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -389,7 +389,7 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-backend.reviewtable.ru.ico",
     "slug": "development-backend",
     "status": "down",
-    "uptime": "23.45%",
+    "uptime": "23.41%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
@@ -400,7 +400,8 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 68,
+      "2026-03-02": 61,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -763,8 +764,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   },
   {
@@ -773,18 +773,19 @@
     "icon": "https://icons.duckduckgo.com/ip3/dev-ya-business-client.reviewtable.ru.ico",
     "slug": "development-ya-business-client",
     "status": "down",
-    "uptime": "23.48%",
+    "uptime": "23.45%",
     "uptimeDay": "0.00%",
     "uptimeWeek": "0.00%",
     "uptimeMonth": "7.96%",
     "uptimeYear": "0.00%",
-    "time": 793,
+    "time": 794,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2026-03-01": 68,
+      "2026-03-02": 61,
+      "2026-03-01": 1440,
       "2026-02-28": 1440,
       "2026-02-27": 1440,
       "2026-02-26": 1440,
@@ -1147,8 +1148,7 @@
       "2025-03-06": 1440,
       "2025-03-05": 1440,
       "2025-03-04": 1440,
-      "2025-03-03": 1440,
-      "2025-03-02": 1440
+      "2025-03-03": 1440
     }
   }
 ]
